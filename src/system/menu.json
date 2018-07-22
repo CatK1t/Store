@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Home",
+        "link":"/"
+    },
+    {
+        "name":"Products",
+        "link":"/Products"
+    },
+    {
+        "name":"Login",
+        "link":"/login"
+    },
+    {
+        "name":"Registration",
+        "link":"/registration"
+    },
+    {
+        "name":"About us",
+        "link":"/about"
+    }
+   
+]

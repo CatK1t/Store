@@ -1,0 +1,38 @@
+
+div#cart{
+    border: 2px solid #ccc;
+    position: absolute;
+    right: 0;
+    z-index: 1000;
+    background: #fff;
+}
+
+header{
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.body-cart i {
+    cursor: pointer;
+}
+
+.cart-show{
+    font-size: 25px;
+    cursor: pointer;
+}
+.form-control{
+    font-size: 13px;
+}
+.Home, .About, .Registration, .Login, .products, .MainProduct{
+    border: 1px solid #ccc;
+    padding: 15px;
+    min-height: 250px;
+    margin: 15px 6px;
+}
+footer{
+    background-color: #000;
+    color: #ccc;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
